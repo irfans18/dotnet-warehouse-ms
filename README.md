@@ -6,4 +6,4 @@
  - [x] Soal 3 : Kemampuan programming
 
 ## Solution
-Solusi untuk persoalan 1 & 2 terlampir pada directory docs
+Solusi untuk persoalan 1 & 2 terlampir pada directory [docs](https://github.com/irfans18/dotnet-warehouse-ms/blob/main/docs/Assessment%20Fujitsu_Muhammad%20Irfan%20Shiddiq.pdf)
